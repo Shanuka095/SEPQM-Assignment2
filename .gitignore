@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+*.log
+chromedriver.exe
+geckodriver.exe
+*.png
+test-output/
